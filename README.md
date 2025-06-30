@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is **Tejash Prajapati** and I'm a **React Native Developer**, from **Bardoli, Gujarat, India**.</h2>
+<h2 align="left">Hi 👋! My name is Tejash Prajapati and I'm a React Native Developer.</h2>
 
 ---
 
